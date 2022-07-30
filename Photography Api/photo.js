@@ -26,7 +26,3 @@ async function getImages(){
     }
 }
 
-{/* <p>${photo.author}</p> */}
-{/* <div id="card">
-        <img src="${photo.download_url}"/>
-        </div> */}
